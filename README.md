@@ -1,0 +1,1 @@
+Developed a currency conversion app using React, integrating custom hooks for real-time currency information. Implemented a user-friendly interface allowing seamless conversion between currencies. Applied modern styling techniques, responsive design, and dynamic functionality for a polished and intuitive user experience.
